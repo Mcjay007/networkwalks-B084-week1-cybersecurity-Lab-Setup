@@ -257,6 +257,10 @@ I am building practical cybersecurity skills through hands-on laboratory exercis
 | Focus Area | Virtual Networking and Lab Configuration |
 | Project Status | Successfully Completed |
 
+##SCREENSHOT
+
+[Screenshot (4)]
+
 ---
 
 ⭐ If you find this project useful, feel free to explore and follow my cybersecurity learning journey.
