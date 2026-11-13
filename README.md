@@ -209,9 +209,9 @@ Cybersecurity-Lab-Setup/
 
 Add your screenshots using the following Markdown format:
 
-![NAT Network Configuration](IMG_20261112_140045.jpg)
+![NAT Network Configuration]()
 
-![Kali Linux Desktop](IMG_20261112_140621.jpg)
+![Kali Linux Desktop]()
 
 ![Static IP Configuration](screenshots/03-static-ip-configuration.png)
 
